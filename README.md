@@ -89,29 +89,16 @@
 
 ## 💻 Featured Projects
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/ratwet/esp32-soccer-robot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ratwet&repo=esp32-soccer-robot&theme=tokyonight&hide_border=true" /></a></td>
-<td width="50%"><a href="https://github.com/ratwet/gesture-cursor-control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ratwet&repo=gesture-cursor-control&theme=tokyonight&hide_border=true" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/ratwet/IoT-Device-Simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ratwet&repo=IoT-Device-Simulator&theme=tokyonight&hide_border=true" /></a></td>
-<td width="50%"><a href="https://github.com/ratwet/DSA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ratwet&repo=DSA&theme=tokyonight&hide_border=true" /></a></td>
-</tr>
-</table>
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
 
-> These cards pull live star counts, language, and description straight from GitHub — edit a repo's description once and it updates here automatically.
+> Auto-generated daily from your top‑starred **public** repos via the GitHub API — nothing to edit by hand, ever.
 
 <br/>
 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ratwet/ratwet/pull/1) in [ratwet/ratwet](https://github.com/ratwet/ratwet)
-2. 💪 Opened PR [#1](https://github.com/ratwet/ratwet/pull/1) in [ratwet/ratwet](https://github.com/ratwet/ratwet)
-3. 🗣 Commented on [#1](https://github.com/ratwet/skills-code-with-codespaces/issues/1#issuecomment-4733153240) in [ratwet/skills-code-with-codespaces](https://github.com/ratwet/skills-code-with-codespaces)
-4. 🎉 Merged PR [#1](https://github.com/ratwet/IoT-Device-Simulator/pull/1) in [ratwet/IoT-Device-Simulator](https://github.com/ratwet/IoT-Device-Simulator)
-5. 💪 Opened PR [#1](https://github.com/ratwet/IoT-Device-Simulator/pull/1) in [ratwet/IoT-Device-Simulator](https://github.com/ratwet/IoT-Device-Simulator)
 <!--END_SECTION:activity-->
 
 <br/>
