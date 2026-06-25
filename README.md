@@ -82,58 +82,27 @@
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ratwet&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
+<!--START_SECTION:trophy-->
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=ratwet&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
+<!--END_SECTION:trophy-->
 </div>
+
+> Checked every 6 hours — if the current mirror goes down, this automatically switches to the next one in the chain.
 
 <br/>
 
 ## 💻 Featured Projects
 
 <!--START_SECTION:projects-->
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**[gesture-cursor-control](https://github.com/ratwet/gesture-cursor-control)**
-
-Control your mouse cursor with hand gestures using a webcam in real-time finger tracking with MediaPipe, OpenCV & Python.  Wayland-native on Ubuntu. No mouse needed.
-
-`Python` &nbsp;·&nbsp; ⭐ 2
-
-</td>
-<td width="33%" valign="top">
-
-**[esp32-soccer-robot](https://github.com/ratwet/esp32-soccer-robot)**
-
-A competitive 4-wheel soccer robot controlled over WiFi via a browser-based game pad built with ESP32, dual L298N motor drivers, and BO gear motors. No app install required just connect to WiFi and open a browser.
-
-`C++` &nbsp;·&nbsp; ⭐ 1
-
-</td>
-<td width="33%" valign="top">
-
-**[IoT-Device-Simulator](https://github.com/ratwet/IoT-Device-Simulator)**
-
-ESP32-based IoT device simulator that reads temperature and humidity from a DHT22, simulates GPS movement using a random walk, tracks battery level, and publishes JSON telemetry to an MQTT broker every 10 seconds.
-
-`C++` &nbsp;·&nbsp; ⭐ 1
-
-</td>
-</tr>
-</table>
 <!--END_SECTION:projects-->
 
-> Auto-generated daily from top‑starred **public** repos via the GitHub API
+> Auto-generated daily from your top‑starred **public** repos via the GitHub API — nothing to edit by hand, ever.
+
 <br/>
 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ratwet/ratwet/pull/1) in [ratwet/ratwet](https://github.com/ratwet/ratwet)
-2. 💪 Opened PR [#1](https://github.com/ratwet/ratwet/pull/1) in [ratwet/ratwet](https://github.com/ratwet/ratwet)
-3. 🗣 Commented on [#1](https://github.com/ratwet/skills-code-with-codespaces/issues/1#issuecomment-4733153240) in [ratwet/skills-code-with-codespaces](https://github.com/ratwet/skills-code-with-codespaces)
-4. 🎉 Merged PR [#1](https://github.com/ratwet/IoT-Device-Simulator/pull/1) in [ratwet/IoT-Device-Simulator](https://github.com/ratwet/IoT-Device-Simulator)
-5. 💪 Opened PR [#1](https://github.com/ratwet/IoT-Device-Simulator/pull/1) in [ratwet/IoT-Device-Simulator](https://github.com/ratwet/IoT-Device-Simulator)
 <!--END_SECTION:activity-->
 
 <br/>
