@@ -123,8 +123,7 @@ ESP32-based IoT device simulator that reads temperature and humidity from a DHT2
 </table>
 <!--END_SECTION:projects-->
 
-> Auto-generated daily from your top‑starred **public** repos via the GitHub API — nothing to edit by hand, ever.
-
+> Auto-generated daily from top‑starred **public** repos via the GitHub API
 <br/>
 
 ## ⚡ Recent Activity
