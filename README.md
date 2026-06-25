@@ -87,7 +87,6 @@
 <!--END_SECTION:trophy-->
 </div>
 
-> Checked every 6 hours — if the current mirror goes down, this automatically switches to the next one in the chain.
 
 <br/>
 
