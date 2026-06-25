@@ -19,9 +19,9 @@
 
 - 🎓 B.Tech student in **Mathematics & Computing**, Central University of Jammu *(2025 – 2029)*
 - ⚙️ Focused on **systems programming, embedded development, and computer vision**
-- 🤖 I love projects where **hardware meets software** — robots, sensors, and real‑time control loops
+- 🤖 I love projects where **hardware meets software** robots, sensors, and real‑time control loops
 - 🌱 Currently leveling up in **cloud computing, AI/ML, and modern Git workflows**
-- 📫 Open to collaborating on embedded/IoT and CV projects — reach out via the links above!
+- 📫 Open to collaborating on embedded/IoT and CV projects reach out via the links above!
 
 <br/>
 
