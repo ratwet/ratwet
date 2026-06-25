@@ -95,7 +95,7 @@
 <!--START_SECTION:projects-->
 <!--END_SECTION:projects-->
 
-> Auto-generated daily from your top‑starred **public** repos via the GitHub API — nothing to edit by hand, ever.
+> Auto-generated daily from top‑starred **public** repos via the GitHub API.
 
 <br/>
 
