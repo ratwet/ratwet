@@ -93,6 +93,37 @@
 ## 💻 Featured Projects
 
 <!--START_SECTION:projects-->
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[gesture-cursor-control](https://github.com/ratwet/gesture-cursor-control)**
+
+Control your mouse cursor with hand gestures using a webcam in real-time finger tracking with MediaPipe, OpenCV & Python.  Wayland-native on Ubuntu. No mouse needed.
+
+`Python` &nbsp;·&nbsp; ⭐ 2
+
+</td>
+<td width="33%" valign="top">
+
+**[esp32-soccer-robot](https://github.com/ratwet/esp32-soccer-robot)**
+
+A competitive 4-wheel soccer robot controlled over WiFi via a browser-based game pad built with ESP32, dual L298N motor drivers, and BO gear motors. No app install required just connect to WiFi and open a browser.
+
+`C++` &nbsp;·&nbsp; ⭐ 1
+
+</td>
+<td width="33%" valign="top">
+
+**[IoT-Device-Simulator](https://github.com/ratwet/IoT-Device-Simulator)**
+
+ESP32-based IoT device simulator that reads temperature and humidity from a DHT22, simulates GPS movement using a random walk, tracks battery level, and publishes JSON telemetry to an MQTT broker every 10 seconds.
+
+`C++` &nbsp;·&nbsp; ⭐ 1
+
+</td>
+</tr>
+</table>
 <!--END_SECTION:projects-->
 
 > Auto-generated daily from top‑starred **public** repos via the GitHub API.
