@@ -83,7 +83,7 @@
 
 <div align="center">
 <!--START_SECTION:trophy-->
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=ratwet&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
+_Trophy widget is temporarily unavailable — every mirror is down right now. Check back later._
 <!--END_SECTION:trophy-->
 </div>
 
