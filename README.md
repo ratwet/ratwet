@@ -110,7 +110,7 @@ Control your mouse cursor with hand gestures using a webcam in real-time finger 
 
 ShadowFox AIML Intern
 
-`—` &nbsp;·&nbsp; ⭐ 1
+`Jupyter Notebook` &nbsp;·&nbsp; ⭐ 1
 
 </td>
 <td width="33%" valign="top">
