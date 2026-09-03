@@ -133,10 +133,10 @@ A competitive 4-wheel soccer robot controlled over WiFi via a browser-based game
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ratwet/SIH26117/pull/2) in [ratwet/SIH26117](https://github.com/ratwet/SIH26117)
-2. 🎉 Merged PR [#1](https://github.com/ratwet/SIH26117/pull/1) in [ratwet/SIH26117](https://github.com/ratwet/SIH26117)
-3. 💪 Opened PR [#1](https://github.com/ratwet/SIH26117/pull/1) in [ratwet/SIH26117](https://github.com/ratwet/SIH26117)
-4. 💪 Opened PR [#1](https://github.com/ratwet/ratwet/pull/1) in [ratwet/ratwet](https://github.com/ratwet/ratwet)
+1. 🎉 Merged PR [#2](https://github.com/ratwet/SIH26117/pull/2) in [ratwet/SIH26117](https://github.com/ratwet/SIH26117)
+2. 💪 Opened PR [#2](https://github.com/ratwet/SIH26117/pull/2) in [ratwet/SIH26117](https://github.com/ratwet/SIH26117)
+3. 🎉 Merged PR [#1](https://github.com/ratwet/SIH26117/pull/1) in [ratwet/SIH26117](https://github.com/ratwet/SIH26117)
+4. 💪 Opened PR [#1](https://github.com/ratwet/SIH26117/pull/1) in [ratwet/SIH26117](https://github.com/ratwet/SIH26117)
 5. 🗣 Commented on [#1](https://github.com/ratwet/skills-code-with-codespaces/issues/1#issuecomment-4733153240) in [ratwet/skills-code-with-codespaces](https://github.com/ratwet/skills-code-with-codespaces)
 <!--END_SECTION:activity-->
 
