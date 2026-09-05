@@ -106,20 +106,20 @@ Control your mouse cursor with hand gestures using a webcam in real-time finger 
 </td>
 <td width="33%" valign="top">
 
+**[SIH26117](https://github.com/ratwet/SIH26117)**
+
+Sovereign On-Premise Agentic AI Workbench using Open-Weight Multimodal LLMs for Confidential Industrial Work
+
+`—` &nbsp;·&nbsp; ⭐ 1
+
+</td>
+<td width="33%" valign="top">
+
 **[ShadowFox](https://github.com/ratwet/ShadowFox)**
 
 ShadowFox AIML Intern
 
 `Jupyter Notebook` &nbsp;·&nbsp; ⭐ 1
-
-</td>
-<td width="33%" valign="top">
-
-**[esp32-soccer-robot](https://github.com/ratwet/esp32-soccer-robot)**
-
-A competitive 4-wheel soccer robot controlled over WiFi via a browser-based game pad built with ESP32, dual L298N motor drivers, and BO gear motors. No app install required just connect to WiFi and open a browser.
-
-`C++` &nbsp;·&nbsp; ⭐ 1
 
 </td>
 </tr>
