@@ -30,12 +30,12 @@
       alt="GitHub followers"
     />
   </a>
+   <img
+    src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Research-6B8E23?style=for-the-badge"
+    alt="Open to internships & research"
+  />
 
-<img
- src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Research-6B8E23?style=for-the-badge"
- alt="Open to internships and research"
-/>
-
+ 
 </p>
 
 <p align="center">
@@ -50,19 +50,9 @@
 
 ## 👋 About Me
 
-I’m an **undergraduate Mathematics & Computing student at the Central University of Jammu** focused on building practical systems at the intersection of:
+I’m an **undergraduate Mathematics & Computing student** focused on building practical systems at the intersection of:
 
 **Applied AI · Machine Learning · Computer Vision · Robotics · Embedded Systems · IoT**
-
-I enjoy taking a problem through the complete engineering cycle:
-
-**idea → implementation → testing → measurement → documentation**
-
-My work spans neural networks, computer vision, ESP32 robotics, IoT telemetry, embedded control systems, and practical ML experimentation.
-
-I’m particularly interested in understanding systems **under the hood** rather than treating models, libraries, or hardware as black boxes.
-
-Currently, I’m working as a **Tech Mentor with the Student Technical Club at Central University of Jammu in partnership with e-Yantra**, where I guide students across ML, computer vision, embedded systems, IoT, and robotics.
 
 ### 🔭 Currently Exploring
 
@@ -84,14 +74,6 @@ Currently, I’m working as a **Tech Mentor with the Student Technical Club at C
 
 Machine-learning systems built around concrete problems and measurable results.
 
-**Interests**
-
-* Neural networks
-* Model evaluation
-* LLM experimentation
-* Interpretability
-* Practical ML engineering
-
 </td>
 
 <td width="50%" valign="top">
@@ -99,14 +81,6 @@ Machine-learning systems built around concrete problems and measurable results.
 ### 👁️ Computer Vision
 
 Real-time vision systems that connect perception with interaction.
-
-**Interests**
-
-* OpenCV
-* MediaPipe
-* Gesture recognition
-* Image processing
-* Human-computer interaction
 
 </td>
 </tr>
@@ -118,14 +92,6 @@ Real-time vision systems that connect perception with interaction.
 
 Hardware + software systems where control and performance can be measured.
 
-**Interests**
-
-* ESP32
-* Motor control
-* Embedded C++
-* Sensors
-* Wireless control
-
 </td>
 
 <td width="50%" valign="top">
@@ -133,14 +99,6 @@ Hardware + software systems where control and performance can be measured.
 ### 🌐 IoT & Embedded
 
 Connected edge systems designed around telemetry and reliability.
-
-**Interests**
-
-* MQTT
-* GPS
-* Environmental sensing
-* Battery monitoring
-* Wokwi simulation
 
 </td>
 </tr>
@@ -191,96 +149,6 @@ Worked on three end-to-end AI/ML tasks spanning model development, analytics, ev
 **Technology used**
 
 `Python` · `TensorFlow` · `PyTorch` · `Pandas` · `Plotly` · `Hugging Face Transformers`
-
----
-
-## 🚀 Featured Projects
-
-### 🥇 RoboTraverse
-
-**Rope-Traversing Racing Robot**
-
-> **1st Place — CSE Robotics Club Challenge**
-
-A high-speed competition robot designed to traverse a suspended rope using an ESP32-based control system.
-
-**Performance**
-
-`10 m in 2.16 s`
-
-`4.63 m/s`
-
-`16.6 km/h`
-
-**Stack**
-
-`C++` · `ESP32` · `BLDC` · `Bluetooth Serial`
-
-[View Repository →](https://github.com/ratwet/RoboTraverse)
-
----
-
-### ⚽ Wi-Fi Controlled Soccer Robot
-
-A competitive **4-wheel robotic platform** controlled entirely over Wi-Fi through a browser-based virtual gamepad.
-
-The system allows control directly from a web browser without requiring a dedicated mobile application.
-
-**Hardware**
-
-* ESP32
-* Dual L298N motor drivers
-* BO geared motors
-* 4-wheel drive
-
-**Stack**
-
-`C++` · `ESP32` · `L298N` · `Wi-Fi`
-
-[View Repository →](https://github.com/ratwet/esp32-soccer-robot)
-
----
-
-### 🖐️ Gesture-Based Cursor Control
-
-A real-time computer-vision application that allows users to control the mouse cursor through hand gestures captured from a webcam.
-
-**Highlights**
-
-* Real-time hand tracking
-* MediaPipe landmark detection
-* Gesture-based cursor interaction
-* No physical mouse required
-* Wayland-native Ubuntu implementation
-
-**Stack**
-
-`Python` · `OpenCV` · `MediaPipe`
-
-[View Repository →](https://github.com/ratwet/gesture-cursor-control)
-
----
-
-### 📡 IoT Device Simulator
-
-An ESP32-based edge-device simulator designed to model connected IoT telemetry.
-
-**Simulated telemetry**
-
-* Environmental measurements
-* GPS movement
-* Battery health
-* Periodic MQTT transmission
-
-**Update interval**
-
-`10 seconds`
-
-**Stack**
-
-`ESP32` · `DHT22` · `MQTT` · `Wokwi`
-
-[View Repository →](https://github.com/ratwet/IoT-Device-Simulator)
 
 ---
 
@@ -442,34 +310,6 @@ Mentoring students across **machine learning, computer vision, embedded systems,
 
 ---
 
-## 🎓 Education
-
-### B.Tech — Mathematics & Computing
-
-**Central University of Jammu, Jammu & Kashmir**
-
-`August 2025 – May 2029*`
-
-**CGPA:** `8.3`
-
-### Class XII — CBSE, Science
-
-**School of Excellence Madanpur Khadar, Delhi**
-
-`2023 – 2024`
-
-**Percentage:** `80%`
-
-### Class X — CBSE
-
-**School of Excellence Madanpur Khadar, Delhi**
-
-`2021 – 2022`
-
-**Percentage:** `83%`
-
----
-
 ## 📜 Certifications
 
 ### Prompt Engineering for ChatGPT
@@ -486,28 +326,11 @@ Mentoring students across **machine learning, computer vision, embedded systems,
 
 ---
 
-## 🧑‍💻 Seminars & Workshops
-
-### AI Builders Weekend
-
-**Masters' Union**
-
-Hands-on exposure to building AI agents and practical agentic-AI workflows.
-
-### National Seminar on AI for Good Governance
-
-**Dr. Ambedkar International Centre**
-
-Explored discussions around the **India AI Mission, Project Tapestry, Distributed AI, DSS Studio, sovereignty, society, governance, and AI ethics**.
-
----
-
 ## 🌱 Currently Learning
 
 ```text
 Agentic AI
 Tool Calling
-ReAct Workflows
 Computer Vision
 Embedded Robotics
 Practical ML Engineering
