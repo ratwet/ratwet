@@ -285,12 +285,10 @@ My long-term goal is to work on **intelligent systems that combine perception, c
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/ratwet/ratwet/output/github-contribution-grid-snake-dark.svg"
     />
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/ratwet/ratwet/output/github-contribution-grid-snake.svg"
     />
-
     <img
       src="https://raw.githubusercontent.com/ratwet/ratwet/output/github-contribution-grid-snake.svg"
       alt="GitHub contribution snake animation"
