@@ -1,14 +1,14 @@
-name: Generate Contribution Snake
+name: 🐍 Generate Contribution Snake
 
 on:
+  # Refresh automatically every day
   schedule:
-    # Run once every day at midnight UTC
     - cron: "0 0 * * *"
 
-  # Allow manual execution from GitHub Actions
+  # Allow manual generation from GitHub Actions
   workflow_dispatch:
 
-  # Regenerate whenever main is updated
+  # Refresh when the profile README changes
   push:
     branches:
       - main
@@ -16,25 +16,33 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
-    name: Generate Snake Animation
+    name: Generate Contribution Snake
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
+      - name: 🐍 Generate animated snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake to output branch
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23D4AF37&color_dots=%231A1F13,%23333D1A,%23556B2F,%238A9A5B,%23D4AF37
+
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23D4AF37&color_dots=%231A1F13,%23333D1A,%23556B2F,%238A9A5B,%23D4AF37
+
+            dist/github-contribution-grid-snake.gif?color_snake=%23D4AF37&color_dots=%231A1F13,%23333D1A,%23556B2F,%238A9A5B,%23D4AF37&color_background=%231A1F13
+
+      - name: 🚀 Publish generated files
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
