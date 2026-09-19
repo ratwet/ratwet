@@ -296,6 +296,7 @@ My long-term goal is to work on **intelligent systems that combine perception, c
     />
   </picture>
 </p>
+
 ---
 
 ## 🏆 Highlights
