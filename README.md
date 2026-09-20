@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ratwet.github.io">Website</a>
+  <a href="https://kaushal.is-a.dev">Website</a>
   &nbsp;•&nbsp;
   <a href="https://linkedin.com/in/kaushal-kumar-072739206">LinkedIn</a>
   &nbsp;•&nbsp;
@@ -352,7 +352,7 @@ Practical ML Engineering
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://ratwet.github.io">
+  <a href="https://kaushal.is-a.dev">
     <img
       src="https://img.shields.io/badge/Website-2E86AB?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Website"
